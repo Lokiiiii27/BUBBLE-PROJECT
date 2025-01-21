@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Haoyi/Downloads/OneDrive_2025-01-21/BUBBLE PROJECT/Bubble_Project_V1/Content/_Main/Player/BluePrints/BP_Player.uasset",
+				"C:/Users/Haoyi/Downloads/OneDrive_2025-01-21/BUBBLE PROJECT/Bubble_Project_V1/Content/FPWeapon/Mesh/SK_FPGun.uasset",
+				"C:/Users/Haoyi/Downloads/OneDrive_2025-01-21/BUBBLE PROJECT/Bubble_Project_V1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3D/RCZ6KHZ9CN0G214PF29W9A.uasset"
+			]
+		}
+	]
+}
